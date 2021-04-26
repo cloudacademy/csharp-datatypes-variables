@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/hallam/.dotnet/store/|arch|/|tfm|",
+      "/home/hallam/.nuget/packages"
+    ]
+  }
+}

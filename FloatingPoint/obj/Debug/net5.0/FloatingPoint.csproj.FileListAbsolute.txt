@@ -1,0 +1,16 @@
+/home/hallam/Projects/csharp/Floats/FloatingPoint/bin/Debug/net5.0/FloatingPoint
+/home/hallam/Projects/csharp/Floats/FloatingPoint/bin/Debug/net5.0/FloatingPoint.deps.json
+/home/hallam/Projects/csharp/Floats/FloatingPoint/bin/Debug/net5.0/FloatingPoint.runtimeconfig.json
+/home/hallam/Projects/csharp/Floats/FloatingPoint/bin/Debug/net5.0/FloatingPoint.runtimeconfig.dev.json
+/home/hallam/Projects/csharp/Floats/FloatingPoint/bin/Debug/net5.0/FloatingPoint.dll
+/home/hallam/Projects/csharp/Floats/FloatingPoint/bin/Debug/net5.0/ref/FloatingPoint.dll
+/home/hallam/Projects/csharp/Floats/FloatingPoint/bin/Debug/net5.0/FloatingPoint.pdb
+/home/hallam/Projects/csharp/Floats/FloatingPoint/obj/Debug/net5.0/FloatingPoint.csprojAssemblyReference.cache
+/home/hallam/Projects/csharp/Floats/FloatingPoint/obj/Debug/net5.0/FloatingPoint.GeneratedMSBuildEditorConfig.editorconfig
+/home/hallam/Projects/csharp/Floats/FloatingPoint/obj/Debug/net5.0/FloatingPoint.AssemblyInfoInputs.cache
+/home/hallam/Projects/csharp/Floats/FloatingPoint/obj/Debug/net5.0/FloatingPoint.AssemblyInfo.cs
+/home/hallam/Projects/csharp/Floats/FloatingPoint/obj/Debug/net5.0/FloatingPoint.csproj.CoreCompileInputs.cache
+/home/hallam/Projects/csharp/Floats/FloatingPoint/obj/Debug/net5.0/FloatingPoint.dll
+/home/hallam/Projects/csharp/Floats/FloatingPoint/obj/Debug/net5.0/ref/FloatingPoint.dll
+/home/hallam/Projects/csharp/Floats/FloatingPoint/obj/Debug/net5.0/FloatingPoint.pdb
+/home/hallam/Projects/csharp/Floats/FloatingPoint/obj/Debug/net5.0/FloatingPoint.genruntimeconfig.cache
