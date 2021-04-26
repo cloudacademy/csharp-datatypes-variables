@@ -1,0 +1,16 @@
+D:\CA\CSharpNet\VariablesAndNamespaces\Arrays\Arrays\bin\Debug\net5.0\Arrays.exe
+D:\CA\CSharpNet\VariablesAndNamespaces\Arrays\Arrays\bin\Debug\net5.0\Arrays.deps.json
+D:\CA\CSharpNet\VariablesAndNamespaces\Arrays\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+D:\CA\CSharpNet\VariablesAndNamespaces\Arrays\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+D:\CA\CSharpNet\VariablesAndNamespaces\Arrays\Arrays\bin\Debug\net5.0\Arrays.dll
+D:\CA\CSharpNet\VariablesAndNamespaces\Arrays\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+D:\CA\CSharpNet\VariablesAndNamespaces\Arrays\Arrays\bin\Debug\net5.0\Arrays.pdb
+D:\CA\CSharpNet\VariablesAndNamespaces\Arrays\Arrays\obj\Debug\net5.0\Arrays.csprojAssemblyReference.cache
+D:\CA\CSharpNet\VariablesAndNamespaces\Arrays\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\CA\CSharpNet\VariablesAndNamespaces\Arrays\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+D:\CA\CSharpNet\VariablesAndNamespaces\Arrays\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+D:\CA\CSharpNet\VariablesAndNamespaces\Arrays\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+D:\CA\CSharpNet\VariablesAndNamespaces\Arrays\Arrays\obj\Debug\net5.0\Arrays.dll
+D:\CA\CSharpNet\VariablesAndNamespaces\Arrays\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+D:\CA\CSharpNet\VariablesAndNamespaces\Arrays\Arrays\obj\Debug\net5.0\Arrays.pdb
+D:\CA\CSharpNet\VariablesAndNamespaces\Arrays\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache
