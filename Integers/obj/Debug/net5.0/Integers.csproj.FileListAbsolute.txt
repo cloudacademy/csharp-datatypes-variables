@@ -1,0 +1,16 @@
+C:\Users\Hallam@how.co.nz\source\repos\Integers\Integers\bin\Debug\net5.0\Integers.exe
+C:\Users\Hallam@how.co.nz\source\repos\Integers\Integers\bin\Debug\net5.0\Integers.deps.json
+C:\Users\Hallam@how.co.nz\source\repos\Integers\Integers\bin\Debug\net5.0\Integers.runtimeconfig.json
+C:\Users\Hallam@how.co.nz\source\repos\Integers\Integers\bin\Debug\net5.0\Integers.runtimeconfig.dev.json
+C:\Users\Hallam@how.co.nz\source\repos\Integers\Integers\bin\Debug\net5.0\Integers.dll
+C:\Users\Hallam@how.co.nz\source\repos\Integers\Integers\bin\Debug\net5.0\ref\Integers.dll
+C:\Users\Hallam@how.co.nz\source\repos\Integers\Integers\bin\Debug\net5.0\Integers.pdb
+C:\Users\Hallam@how.co.nz\source\repos\Integers\Integers\obj\Debug\net5.0\Integers.csprojAssemblyReference.cache
+C:\Users\Hallam@how.co.nz\source\repos\Integers\Integers\obj\Debug\net5.0\Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hallam@how.co.nz\source\repos\Integers\Integers\obj\Debug\net5.0\Integers.AssemblyInfoInputs.cache
+C:\Users\Hallam@how.co.nz\source\repos\Integers\Integers\obj\Debug\net5.0\Integers.AssemblyInfo.cs
+C:\Users\Hallam@how.co.nz\source\repos\Integers\Integers\obj\Debug\net5.0\Integers.csproj.CoreCompileInputs.cache
+C:\Users\Hallam@how.co.nz\source\repos\Integers\Integers\obj\Debug\net5.0\Integers.dll
+C:\Users\Hallam@how.co.nz\source\repos\Integers\Integers\obj\Debug\net5.0\ref\Integers.dll
+C:\Users\Hallam@how.co.nz\source\repos\Integers\Integers\obj\Debug\net5.0\Integers.pdb
+C:\Users\Hallam@how.co.nz\source\repos\Integers\Integers\obj\Debug\net5.0\Integers.genruntimeconfig.cache
